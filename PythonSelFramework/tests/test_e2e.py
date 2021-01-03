@@ -46,3 +46,5 @@ class TestOne(BaseClass):
 
 print("hello")
 print("Udemy course is completed")
+
+print("jan3rd is sunday")
